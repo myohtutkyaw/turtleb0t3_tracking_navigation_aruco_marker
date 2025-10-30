@@ -1,0 +1,7 @@
+/**:
+  ros__parameters:
+    slam:
+      skip_b1: true
+      use_lifecycle: false
+      min_map_updates: 0
+      max_wait_s: 0.0

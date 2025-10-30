@@ -1,0 +1,5 @@
+aruco:
+  dictionary: DICT_5X5_100      # OpenCV ArUco dictionary
+  marker_length_m: 0.10        # Actual printed marker side in meters
+  target_ids: [0, 1, 2, 3, 4]  # Marker IDs you plan to use
+  stop_qr_text: "STOP"         # Text content inside your STOP QR code
